@@ -1,0 +1,13 @@
+<!-- 
+		1.git init 
+		2.ssh keygen
+		3.git config --global user.name/user.email
+		4.git remote add origin github地址
+		5.git clone github仓库地址（ssh协议或http协议）
+		6.git add 文件名
+		7.git commit -m 描述 
+		8.git push origin main
+		9.git reset --soft HEAD~
+		10. git branch   /  git checkout
+		11.git merge 合并分支名
+		 -->
